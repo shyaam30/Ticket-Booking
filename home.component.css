@@ -1,0 +1,27 @@
+div{
+background-color: red;
+}
+.heading{
+  padding: 100px 0px;
+  background-color: blue;
+  width: 200px;
+  height: 350px;
+
+
+
+}
+.heading li{
+  list-style: none;
+  padding: 5px 0px;
+  display: flex;
+
+}
+
+.heading li a{
+  text-decoration: none;
+  background-color: black;
+  padding: 15px 40px;
+  width: 200px;
+
+
+}

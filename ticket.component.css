@@ -1,0 +1,33 @@
+.container{
+  background-color:  rgb(196, 210, 223);
+  width: 70%;
+  min-width: 420px;
+  padding: 35px 50px;
+  transform: translate(-50%,-50%);
+  position: relative;
+  left: 50%;
+  top: 50%;
+  border-radius: 10px;
+  box-shadow: 20px 30px 25px rgba(0,0,0,0.15);
+}
+form
+{
+  width:100%;
+  position: relative;
+  margin: 10px auto 0 auto;
+}
+label{
+  color: #000000;
+  font-size: 14px;
+  padding: 5px;
+  text-align: left;
+  justify-content: left;
+}
+select{
+  width: 100%;
+  font-weight: 400;
+  padding: 8px 10px;
+  border-radius: 5px;
+  border: 1.2px solid #c4cae0;
+  margin-top: 5px;
+}
