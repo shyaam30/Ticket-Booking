@@ -1,0 +1,61 @@
+{
+  "employee":[
+    {
+      "id":101,
+      "name":"Arjun",
+      "Designation":"TL",
+      "Location":"Salem",
+      "Address":"Ammapet",
+      "Salary":"34K"
+    },
+    {
+      "id":102,
+      "name":"Karthick",
+      "Designation":"TL",
+      "Location":"Salem",
+      "Address":"Fairlands",
+      "Salary":"39K"
+    },
+    {
+      "id":103,
+      "name":"Jennifer",
+      "Designation":"HR",
+      "Location":"Chennai",
+      "Address":"Paadi",
+      "Salary":"34K"
+    },
+    {
+      "id":104,
+      "name":"Mathew",
+      "Designation":"TL",
+      "Location":"Kochin",
+      "Address":"Trivandram",
+      "Salary":"55K"
+    },
+    {
+      "id":105,
+      "name":"KiranDharsha",
+      "Designation":"TL",
+      "Location":"Chennai",
+      "Address":"cholinganallur",
+      "Salary":"55K"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
